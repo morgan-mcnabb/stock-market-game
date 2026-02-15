@@ -1,0 +1,276 @@
+ticker,company_name,headline,date,price_before,price_after,direction,percent_change
+NVDA,NVIDIA Corp.,Jensen Huang steps down as NVIDIA CEO effective immediately,2023-04-20,505.77,476.94,down,-5.7
+NVDA,NVIDIA Corp.,FTC launches probe into NVIDIA tech practices,2024-01-18,461.42,449.75,down,-2.53
+JPM,JPMorgan Chase & Co.,Investors rotate out of finance sector; JPMorgan exposed,2024-02-19,204.3,201.64,down,-1.3
+MCD,McDonald's Corp.,McDonald's updates full-year revenue forecast,2023-11-17,309.12,300.9,down,-2.66
+V,Visa Inc.,finance sentiment improves with Visa in focus,2024-05-07,280.66,283.86,up,1.14
+NKE,Nike Inc.,Fund managers shift away from retail names like Nike,2023-05-29,86.74,85.44,down,-1.5
+V,Visa Inc.,Visa beats expectations on payment network strength,2024-01-19,264.34,270.37,up,2.28
+WMT,Walmart Inc.,Walmart enters strategic alliance with retail leader,2023-11-02,155.96,160.5,up,2.91
+CAT,Caterpillar Inc.,industrial sector sees outflows as investors seek value,2023-02-23,338.93,336.08,down,-0.84
+INTC,Intel Corp.,Risk-on mood lifts tech names including Intel,2023-05-08,35.93,36.11,up,0.5
+UPS,United Parcel Service,UPS signs multi-year deal to expand package delivery reach,2024-02-27,144.57,148.94,up,3.02
+BA,Boeing Co.,Boeing in focus as analysts send conflicting signals,2023-01-11,238.47,238.45,down,-0.01
+NFLX,Netflix Inc.,Top analyst highlights Netflix as entertainment best idea,2024-03-13,692.85,701.23,up,1.21
+MA,Mastercard Inc.,Mastercard delivers blowout quarter on payment network demand,2023-06-12,392.29,421.32,up,7.4
+ADBE,Adobe Inc.,Adobe recalls Photoshop units over safety concerns,2023-03-08,576.36,539.47,down,-6.4
+MRK,Merck & Co.,Merck warns of Keytruda supply delays,2024-01-15,140.92,137.99,down,-2.08
+ADBE,Adobe Inc.,DOJ opens antitrust case targeting Adobe,2023-05-17,626.62,597.11,down,-4.71
+KO,Coca-Cola Co.,Coca-Cola drifts on thin trading volume ahead of data,2024-05-13,64.92,65.14,up,0.34
+MRK,Merck & Co.,SEC opens fraud investigation into Merck,2024-02-09,132.55,125.92,down,-5.0
+BA,Boeing Co.,Boeing 737 MAX draws attention from industry reviewers,2024-01-23,231.37,237.36,up,2.59
+GS,Goldman Sachs Group,Goldman Sachs reports demand shift in key finance markets,2023-05-29,420.07,449.52,up,7.01
+DIS,Walt Disney Co.,Analysts question whether Disney rally is sustainable,2023-08-21,114.54,114.37,down,-0.15
+MRK,Merck & Co.,Investor sentiment turns favorable for Merck,2023-06-30,117.69,118.81,up,0.95
+XOM,Exxon Mobil Corp.,ExxonMobil announces joint venture in emerging market,2023-09-07,110.64,114.09,up,3.12
+PFE,Pfizer Inc.,Pfizer caught in broad pharma sector rebalance,2023-05-22,26.68,26.55,down,-0.48
+PEP,PepsiCo Inc.,SEC issues subpoena to PepsiCo over disclosures,2023-08-14,164.14,158.74,down,-3.29
+DIS,Walt Disney Co.,Disney faces entertainment supply chain bottleneck,2023-03-13,98.48,96.03,down,-2.49
+KO,Coca-Cola Co.,Coca-Cola named in federal fraud probe,2023-04-03,51.69,47.16,down,-8.77
+CVX,Chevron Corp.,Chevron quarterly revenue tops Wall Street estimates,2023-11-01,157.99,163.54,up,3.51
+MSFT,Microsoft Corp.,Microsoft posts Q3 results with Azure margins narrowing,2023-05-24,415.28,400.54,down,-3.55
+MCD,McDonald's Corp.,McDonald's benefits from improving restaurant outlook,2023-12-08,328.31,333.86,up,1.69
+NFLX,Netflix Inc.,Netflix holds steady between key entertainment catalysts,2023-04-17,670.18,681.77,up,1.73
+GE,GE Aerospace,GE Aerospace posts strong quarter driven by LEAP engine,2023-05-25,149.26,155.19,up,3.97
+AMZN,Amazon.com Inc.,Mixed data leaves Amazon outlook uncertain,2023-10-02,192.37,188.6,down,-1.96
+MRK,Merck & Co.,Merck partners with global firm on Keytruda,2024-03-25,113.73,118.09,up,3.83
+XOM,Exxon Mobil Corp.,ExxonMobil expands natural gas through new alliance,2024-04-16,90.1,93.16,up,3.4
+TSLA,Tesla Inc.,Tesla announces multi-billion-dollar acquisition,2023-09-18,234.88,249.07,up,6.04
+UNH,UnitedHealth Group,UnitedHealth treads carefully ahead of healthcare data release,2023-03-27,518.5,517.26,down,-0.24
+V,Visa Inc.,Visa quarterly report shows shifting finance trends,2023-02-06,257.76,246.57,down,-4.34
+WMT,Walmart Inc.,Early reviews of Walmart Sam's Club hit the press,2023-08-23,166.54,170.9,up,2.62
+UPS,United Parcel Service,Whistleblower alleges accounting irregularities at UPS,2024-02-06,125.04,117.79,down,-5.8
+ADBE,Adobe Inc.,Adobe faces crosscurrents in tech market,2023-02-14,628.87,624.28,down,-0.73
+UPS,United Parcel Service,UPS package delivery production slowed by parts shortage,2023-12-06,138.09,134.14,down,-2.86
+KO,Coca-Cola Co.,Coca-Cola earnings beat: beverage segment outperforms,2023-04-26,56.91,58.2,up,2.27
+PEP,PepsiCo Inc.,Key PepsiCo supplier reports factory shutdown,2023-04-10,157.49,153.41,down,-2.59
+DE,Deere & Co.,Deere revises tractors sales outlook for next quarter,2024-02-28,417.03,400.1,down,-4.06
+META,Meta Platforms Inc.,Quiet day for Meta as tech awaits next data point,2023-05-10,570.66,578.25,up,1.33
+CAT,Caterpillar Inc.,Caterpillar excavators revenue exceeds analyst forecasts,2024-02-05,282.38,293.17,up,3.82
+JPM,JPMorgan Chase & Co.,JPMorgan faces congressional inquiry over Chase banking,2023-12-11,208.07,199.04,down,-4.34
+DIS,Walt Disney Co.,Investors cautious on Disney before Fed decision,2023-02-10,104.58,103.97,down,-0.58
+UNH,UnitedHealth Group,UnitedHealth adjusts margin expectations for fiscal year,2024-01-31,471.3,448.11,down,-4.92
+KO,Coca-Cola Co.,Coca-Cola board announces surprise leadership change,2023-11-27,66.19,62.7,down,-5.27
+AAPL,Apple Inc.,Analysts split on Apple direction after mixed data,2023-02-15,153.67,152.52,down,-0.75
+AMZN,Amazon.com Inc.,Amazon issues voluntary recall of Prime line,2023-08-28,187.56,173.16,down,-7.68
+BA,Boeing Co.,Boeing holds steady as traders await earnings week,2023-11-30,182.82,180.74,down,-1.14
+PFE,Pfizer Inc.,Pfizer announces quarterly profit beat on Prevnar vaccine,2023-09-18,27.9,28.56,up,2.36
+ADBE,Adobe Inc.,Adobe warns supply constraints may impact Creative Cloud,2024-01-02,574.73,549.9,down,-4.32
+NKE,Nike Inc.,Nike reports year-end results for fiscal 2024,2024-02-19,86.43,81.84,down,-5.31
+BA,Boeing Co.,Wall Street warming up to Boeing 737 MAX potential,2023-03-21,193.53,194.52,up,0.51
+AAPL,Apple Inc.,Apple raises full-year earnings outlook,2023-11-27,161.61,168.74,up,4.41
+NKE,Nike Inc.,Light volume session for Nike before retail report,2023-12-05,83.17,84.73,up,1.88
+GE,GE Aerospace,GE Aerospace sees muted activity in low-liquidity session,2023-07-03,174.3,176.43,up,1.22
+CRM,Salesforce Inc.,Major bank cuts Salesforce price target by 15%,2023-03-21,259.79,250.2,down,-3.69
+NVDA,NVIDIA Corp.,NVIDIA extended after 30% run-up in three months,2023-04-20,505.96,495.99,down,-1.97
+CVX,Chevron Corp.,Low conviction trading in Chevron before macro data,2023-02-13,153.22,151.41,down,-1.18
+NVDA,NVIDIA Corp.,NVIDIA reports record H100 GPU quarterly sales,2023-05-01,436.66,448.71,up,2.76
+SBUX,Starbucks Corp.,Conflicting restaurant data clouds Starbucks outlook,2023-04-11,92.14,91.51,down,-0.68
+TSLA,Tesla Inc.,Positive macro data lifts sentiment toward Tesla,2024-05-13,250.04,253.87,up,1.53
+META,Meta Platforms Inc.,Research note calls Meta undervalued vs. peers,2023-11-20,449.0,450.08,up,0.24
+META,Meta Platforms Inc.,Meta pulls Instagram from shelves pending review,2023-09-19,554.17,521.64,down,-5.87
+GOOGL,Alphabet Inc.,Trading volume in Alphabet drops to multi-week low,2023-10-24,146.77,147.46,up,0.47
+MSFT,Microsoft Corp.,Satya Nadella to depart Microsoft after board disagreement,2023-04-24,432.12,410.13,down,-5.09
+ABBV,AbbVie Inc.,AbbVie Q2 earnings come in amid pharma headwinds,2023-04-19,184.56,177.51,down,-3.82
+CRM,Salesforce Inc.,Wait-and-see mode for Salesforce ahead of quarterly report,2024-03-26,275.46,273.86,down,-0.58
+JPM,JPMorgan Chase & Co.,JPMorgan CFO issues revised guidance in investor call,2023-12-12,169.3,164.42,down,-2.88
+UPS,United Parcel Service,EU regulators target UPS with compliance demands,2024-03-12,157.89,153.88,down,-2.54
+CAT,Caterpillar Inc.,Caterpillar posts surprise profit beat in tough industrial,2024-01-29,307.41,324.62,up,5.6
+CAT,Caterpillar Inc.,Caterpillar boosts excavators revenue guidance for 2025,2023-07-24,328.84,335.98,up,2.17
+BAC,Bank of America Corp.,Bank of America delivers quarterly beat on consumer banking momentum,2023-08-28,34.22,35.43,up,3.55
+INTC,Intel Corp.,Institutional investors pull back from tech stocks,2024-01-01,39.26,38.59,down,-1.71
+V,Visa Inc.,Visa Q4: payment network revenue crosses key threshold,2023-10-30,282.61,260.65,down,-7.77
+META,Meta Platforms Inc.,Meta Instagram gets first wave of media coverage,2023-11-03,574.42,592.57,up,3.16
+JNJ,Johnson & Johnson,Sector rotation hits healthcare names including J&J,2023-01-06,162.81,161.51,down,-0.8
+JNJ,Johnson & Johnson,J&J lifts profit forecast citing healthcare tailwinds,2023-05-17,134.95,137.89,up,2.18
+DIS,Walt Disney Co.,Disney strikes deal to co-develop entertainment technology,2023-11-20,101.4,104.07,up,2.63
+JPM,JPMorgan Chase & Co.,JPMorgan consolidates in calm trading session,2023-08-07,189.8,191.43,up,0.86
+MA,Mastercard Inc.,Mastercard narrows full-year earnings forecast range,2023-10-18,463.14,450.54,down,-2.72
+AMZN,Amazon.com Inc.,Amazon quarterly revenue lands against analyst bar,2023-07-03,164.31,172.36,up,4.9
+TSLA,Tesla Inc.,Tesla closes fiscal year with final quarter report,2024-01-30,260.57,246.99,down,-5.21
+GOOGL,Alphabet Inc.,Alphabet unveils next-gen Google Search at annual event,2023-10-03,122.31,129.16,up,5.6
+CRM,Salesforce Inc.,Salesforce signs transformative tech deal,2024-03-26,248.9,264.63,up,6.32
+NFLX,Netflix Inc.,DOJ investigating Netflix for potential fraud,2023-07-17,582.54,534.31,down,-8.28
+ABBV,AbbVie Inc.,Safety agency orders AbbVie to recall Skyrizi,2024-04-19,197.57,183.46,down,-7.14
+AMZN,Amazon.com Inc.,Amazon quarterly results handily exceed consensus,2023-12-18,170.51,182.89,up,7.26
+PEP,PepsiCo Inc.,PepsiCo lowers beverage segment outlook amid shifts,2023-06-27,181.66,172.81,down,-4.87
+UNH,UnitedHealth Group,Top analyst downgrades UnitedHealth to underperform,2023-02-28,462.46,441.97,down,-4.43
+CVX,Chevron Corp.,Chevron faces uncertainty amid contradictory reports,2023-05-15,149.38,147.17,down,-1.48
+MCD,McDonald's Corp.,Shipping delays hit McDonald's restaurant operations,2023-06-19,257.57,251.39,down,-2.4
+MSFT,Microsoft Corp.,Analyst predicts breakout year for Microsoft Azure,2024-02-19,327.95,330.8,up,0.87
+BA,Boeing Co.,Boeing reveals breakthrough in aerospace technology,2023-12-11,207.8,221.1,up,6.4
+JPM,JPMorgan Chase & Co.,JPMorgan named top pick in new finance report,2023-10-24,193.4,194.17,up,0.4
+MSFT,Microsoft Corp.,Microsoft quiet as tech traders step to sidelines,2023-02-23,419.61,425.15,up,1.32
+GOOGL,Alphabet Inc.,Alphabet feels pressure as tech momentum fades,2023-07-17,134.32,133.15,down,-0.87
+PEP,PepsiCo Inc.,Money flows out of beverage into defensive positions,2023-07-07,166.5,165.18,down,-0.79
+WMT,Walmart Inc.,Walmart confirms receipt of federal subpoena,2023-08-18,184.66,172.14,down,-6.78
+GE,GE Aerospace,GE Aerospace earnings call highlights LEAP engine challenges,2023-09-25,181.51,174.76,down,-3.72
+GE,GE Aerospace,GE Aerospace closes landmark LEAP engine licensing agreement,2023-06-23,144.73,154.46,up,6.72
+ADBE,Adobe Inc.,Market signals diverge on Adobe near-term path,2024-01-23,587.94,583.06,down,-0.83
+DE,Deere & Co.,Deere forms partnership to accelerate tractors growth,2023-06-16,341.64,355.07,up,3.93
+GS,Goldman Sachs Group,Goldman Sachs Q1 results: revenue meets but margins compress,2023-04-21,477.04,464.78,down,-2.57
+GS,Goldman Sachs Group,Buy-side interest in Goldman Sachs growing per analyst note,2024-04-22,417.93,418.18,up,0.06
+CRM,Salesforce Inc.,Salesforce announces major Slack upgrade,2023-10-05,303.9,326.94,up,7.58
+MA,Mastercard Inc.,Mastercard faces component shortage for payment network,2023-12-11,480.08,467.31,down,-2.66
+AAPL,Apple Inc.,Tech press publishes Apple MacBook Pro deep dive,2024-01-15,154.13,159.85,up,3.71
+NKE,Nike Inc.,Nike management increases forward guidance,2023-02-20,99.92,102.35,up,2.43
+GOOGL,Alphabet Inc.,No surprises for Alphabet in orderly tech session,2023-02-13,154.92,156.84,up,1.24
+DE,Deere & Co.,Channel checks positive for Deere tractors,2023-11-13,388.07,394.12,up,1.56
+MRK,Merck & Co.,Wall Street firm lowers Merck pharma estimates,2024-02-16,115.56,112.38,down,-2.75
+MCD,McDonald's Corp.,McDonald's Big Mac demand trends draw investor attention,2023-09-18,273.41,290.5,up,6.25
+PFE,Pfizer Inc.,Pfizer halts Eliquis shipments after quality issue,2024-04-01,24.7,22.95,down,-7.08
+AMZN,Amazon.com Inc.,Amazon ups annual forecast on AWS momentum,2023-12-27,185.89,194.55,up,4.66
+SBUX,Starbucks Corp.,Starbucks range-bound as traders digest recent Frappuccino news,2023-01-25,104.97,105.11,up,0.13
+UNH,UnitedHealth Group,Below-average volume in UnitedHealth ahead of holiday week,2023-03-08,457.15,460.58,up,0.75
+CRM,Salesforce Inc.,Salesforce revises operating income forecast for H2,2023-09-11,231.08,225.81,down,-2.28
+WMT,Walmart Inc.,Walmart Walmart+ benchmarks appear in review roundup,2023-11-13,161.37,166.1,up,2.93
+MSFT,Microsoft Corp.,Market mood brightens for tech stocks like Microsoft,2024-01-25,361.79,368.52,up,1.86
+SBUX,Starbucks Corp.,Is Starbucks overvalued? Wall Street weighs in,2024-02-05,108.05,105.95,down,-1.94
+GOOGL,Alphabet Inc.,Alphabet files patents for new Google Search innovation,2024-03-01,145.4,153.53,up,5.59
+CAT,Caterpillar Inc.,Forensic auditors flag concerns in Caterpillar filings,2024-04-22,301.95,277.16,down,-8.21
+TSLA,Tesla Inc.,Tesla adjusts international revenue projections,2023-06-01,284.04,274.01,down,-3.53
+AAPL,Apple Inc.,Bull and bear cases collide for Apple,2023-09-18,180.36,179.49,down,-0.48
+JNJ,Johnson & Johnson,J&J signs exclusive distribution agreement,2023-07-10,145.0,148.48,up,2.4
+INTC,Intel Corp.,Intel Core processors revenue well above estimates,2024-04-08,35.18,38.9,up,10.58
+ABBV,AbbVie Inc.,Bull case builds for AbbVie as sentiment shifts,2023-07-03,170.08,172.41,up,1.37
+BAC,Bank of America Corp.,Consumer testing results for Bank of America consumer banking released,2023-08-16,32.54,33.34,up,2.46
+DE,Deere & Co.,Deere faces fraud allegations from former executive,2023-05-08,419.31,397.13,down,-5.29
+XOM,Exxon Mobil Corp.,ExxonMobil added to conviction buy list at major firm,2024-01-08,94.45,94.99,up,0.57
+META,Meta Platforms Inc.,Meta enters uncertain period amid sector crosswinds,2023-07-25,479.3,474.36,down,-1.03
+MA,Mastercard Inc.,Mixed economic indicators put Mastercard in limbo,2023-04-17,427.65,421.36,down,-1.47
+DIS,Walt Disney Co.,Disney floats on thin volume between catalysts,2023-12-25,107.19,108.68,up,1.39
+MA,Mastercard Inc.,Federal regulators question Mastercard market practices,2023-10-25,448.85,430.76,down,-4.03
+SBUX,Starbucks Corp.,Starbucks reports quarterly profit below prior year,2023-12-04,100.35,96.96,down,-3.38
+BAC,Bank of America Corp.,Bank of America price target slashed by prominent analyst,2024-02-15,41.01,39.31,down,-4.15
+UPS,United Parcel Service,Sell-side consensus shifts lower on UPS,2024-05-07,143.25,136.4,down,-4.78
+INTC,Intel Corp.,Intel exceeds Street estimates in latest quarter,2023-10-30,32.06,33.07,up,3.14
+NFLX,Netflix Inc.,Netflix receives warning letter from regulators,2024-03-15,690.8,669.94,down,-3.02
+CVX,Chevron Corp.,Industry data shows shifting Chevron demand patterns,2023-05-11,170.57,179.52,up,5.25
+PFE,Pfizer Inc.,Pfizer files quarterly earnings with cost pressures noted,2024-04-23,24.93,23.86,down,-4.28
+INTC,Intel Corp.,ETF flows show declining interest in tech sector,2023-02-07,35.15,34.5,down,-1.85
+TSLA,Tesla Inc.,auto sector rebalancing puts Tesla in focus,2023-12-18,252.77,250.32,down,-0.97
+BAC,Bank of America Corp.,Bank of America Q4 earnings include Merrill Lynch write-down,2024-03-05,31.61,29.57,down,-6.44
+GS,Goldman Sachs Group,Steady trading in Goldman Sachs with no major catalysts,2023-03-22,373.04,376.4,up,0.9
+GE,GE Aerospace,GE Aerospace valuation stretched after recent gains,2023-05-05,172.39,171.08,down,-0.76
+V,Visa Inc.,Research firm trims Visa forecast on payment network worries,2024-04-29,312.78,303.55,down,-2.95
+NKE,Nike Inc.,Multiple firms revise Nike estimates downward,2023-08-28,95.32,90.65,down,-4.9
+ABBV,AbbVie Inc.,AbbVie previews Rinvoq at industry conference,2024-04-08,150.84,163.74,up,8.55
+PFE,Pfizer Inc.,Pfizer files amended outlook with regulators,2023-02-20,24.17,23.11,down,-4.37
+XOM,Exxon Mobil Corp.,ExxonMobil whipsawed by dueling energy data points,2023-10-04,108.25,108.17,down,-0.07
+PEP,PepsiCo Inc.,PepsiCo issues Pepsi safety bulletin and recall,2023-01-02,179.53,168.24,down,-6.29
+UNH,UnitedHealth Group,UnitedHealth announces licensing deal for UnitedHealthcare tech,2023-10-09,538.35,555.95,up,3.27
+NFLX,Netflix Inc.,Netflix flat in balanced session ahead of macro data,2023-10-06,613.66,625.87,up,1.99
+XOM,Exxon Mobil Corp.,ExxonMobil CFO flags supply chain headwinds,2023-09-08,96.16,91.93,down,-4.4
+SBUX,Starbucks Corp.,Starbucks Rewards program receives coverage from major outlets,2023-08-23,92.56,96.23,up,3.97
+ABBV,AbbVie Inc.,pharma optimism returns and benefits AbbVie,2024-05-15,170.4,171.54,up,0.67
+CVX,Chevron Corp.,Port congestion disrupts Chevron delivery timelines,2023-08-22,149.38,145.27,down,-2.75
+JNJ,Johnson & Johnson,State attorneys general launch J&J investigation,2024-03-04,177.5,172.42,down,-2.86
+GS,Goldman Sachs Group,Goldman Sachs hires outside counsel amid accounting probe,2023-03-27,399.71,370.25,down,-7.37
+KO,Coca-Cola Co.,Rotation out of beverage weighs on Coca-Cola positioning,2024-04-26,51.5,51.34,down,-0.31
+BAC,Bank of America Corp.,Sparse trading in Bank of America during summer lull,2023-04-10,36.13,36.64,up,1.4
+JNJ,Johnson & Johnson,J&J discloses new government inquiry into operations,2023-02-08,156.75,151.2,down,-3.54
+NVDA,NVIDIA Corp.,Analyst downgrades NVIDIA citing tech headwinds,2023-03-16,418.26,406.09,down,-2.91
+AAPL,Apple Inc.,Watchdog agency opens formal review of Apple,2024-01-03,160.32,156.18,down,-2.58
+MCD,McDonald's Corp.,McDonald's revises long-term McFlurry growth targets,2023-11-13,319.03,308.69,down,-3.24
+WMT,Walmart Inc.,Walmart treads water as retail sector takes a breather,2023-01-27,167.84,169.5,up,0.99
+DE,Deere & Co.,Deere R&D team publishes industrial research results,2023-08-14,352.11,371.9,up,5.62
+AAPL,Apple Inc.,Apple discloses data breach affecting customer accounts,2024-02-23,170.08,166.40,down,-2.16
+MSFT,Microsoft Corp.,Hackers access Microsoft Azure customer database,2023-10-25,351.87,337.59,down,-4.06
+GOOGL,Alphabet Inc.,Alphabet suffers ransomware attack disrupting operations,2023-09-29,129.68,122.67,down,-5.41
+META,Meta Platforms Inc.,Meta reveals security vulnerability in WhatsApp platform,2023-05-31,461.54,449.69,down,-2.57
+JPM,JPMorgan Chase & Co.,JPMorgan reports unauthorized access to internal systems,2024-03-01,189.40,184.73,down,-2.47
+BAC,Bank of America Corp.,Bank of America customer data exposed in third-party breach,2024-11-05,38.89,37.21,down,-4.34
+UNH,UnitedHealth Group,UnitedHealth scrambles to contain cybersecurity intrusion,2023-12-12,522.38,509.07,down,-2.55
+CRM,Salesforce Inc.,Major data leak at Salesforce raises privacy concerns,2024-10-04,256.49,247.49,down,-3.51
+V,Visa Inc.,Visa systems go offline after suspected cyberattack,2024-08-27,267.30,254.78,down,-4.69
+AMZN,Amazon.com Inc.,Amazon notifies regulators of AWS data compromise,2024-02-15,167.33,160.91,down,-3.84
+AMZN,Amazon.com Inc.,Amazon announces plan to reduce workforce by 10%,2024-02-20,168.38,165.30,down,-1.83
+TSLA,Tesla Inc.,Tesla restructures Model Y division with job cuts,2024-07-24,270.13,262.03,down,-3.00
+NVDA,NVIDIA Corp.,NVIDIA to lay off hundreds in tech cost reduction,2024-05-16,449.53,444.60,down,-1.10
+ADBE,Adobe Inc.,Adobe begins sweeping reorganization of tech teams,2023-01-18,579.09,570.95,down,-1.41
+NFLX,Netflix Inc.,Netflix CEO Ted Sarandos outlines aggressive cost-cutting plan,2023-03-09,701.75,692.83,down,-1.27
+NKE,Nike Inc.,Nike eliminates roles across Air Max and Nike Running units,2023-04-10,82.55,81.21,down,-1.62
+DIS,Walt Disney Co.,Disney freezes hiring and cuts contractor positions,2024-10-31,103.26,102.02,down,-1.20
+GE,GE Aerospace,GE Aerospace shutters aerospace office as part of restructuring,2023-01-31,180.86,174.07,down,-3.75
+BA,Boeing Co.,Internal memo reveals Boeing preparing for layoffs,2023-04-25,187.25,185.22,down,-1.09
+INTC,Intel Corp.,Intel trims headcount to improve operating margins,2023-03-31,39.02,38.32,down,-1.80
+PFE,Pfizer Inc.,Class-action lawsuit filed against Pfizer over Paxlovid,2023-08-24,22.14,20.89,down,-5.64
+JNJ,Johnson & Johnson,J&J faces multi-billion dollar product liability suit,2023-10-12,171.91,167.88,down,-2.34
+ABBV,AbbVie Inc.,Consumers sue AbbVie alleging Skyrizi safety defects,2024-11-28,169.13,164.42,down,-2.78
+MRK,Merck & Co.,Merck hit with shareholder lawsuit over disclosure failures,2024-02-16,127.90,123.95,down,-3.08
+WMT,Walmart Inc.,Legal filings reveal scope of Walmart litigation exposure,2024-11-20,152.76,147.23,down,-3.62
+KO,Coca-Cola Co.,Former employees bring discrimination suit against Coca-Cola,2024-01-08,47.39,45.07,down,-4.89
+MCD,McDonald's Corp.,McDonald's ordered to face trial in restaurant antitrust case,2024-05-27,297.21,281.84,down,-5.17
+NKE,Nike Inc.,Nike reserves $500M for pending Air Jordan litigation,2024-12-17,85.12,82.90,down,-2.61
+TSLA,Tesla Inc.,Major law firm expands case against Tesla,2023-01-02,267.87,252.96,down,-5.57
+META,Meta Platforms Inc.,Meta faces growing legal pressure over WhatsApp claims,2023-06-26,538.77,513.51,down,-4.69
+CRM,Salesforce Inc.,Salesforce loses multi-year contract with key tech client,2023-01-30,284.91,278.28,down,-2.33
+MSFT,Microsoft Corp.,Major customer drops Microsoft Azure in favor of rival,2023-04-19,337.32,329.91,down,-2.20
+UPS,United Parcel Service,UPS confirms loss of top-five customer account,2024-02-13,126.20,123.17,down,-2.41
+CAT,Caterpillar Inc.,Government cancels Caterpillar excavators procurement contract,2024-03-18,335.77,323.13,down,-3.76
+DE,Deere & Co.,Deere industrial partner opts not to renew agreement,2024-03-22,373.90,360.58,down,-3.56
+GS,Goldman Sachs Group,Pentagon drops Goldman Sachs from preferred vendor list,2023-11-20,463.37,449.13,down,-3.07
+MA,Mastercard Inc.,Mastercard revenue outlook dims after client defection,2024-01-29,462.50,441.30,down,-4.58
+ADBE,Adobe Inc.,Key retail partner ends exclusive deal with Adobe,2024-04-10,539.74,520.11,down,-3.64
+INTC,Intel Corp.,Intel loses competitive bid for major tech project,2024-08-19,34.16,33.19,down,-2.83
+AMZN,Amazon.com Inc.,Leaked email shows Amazon losing flagship AWS account,2024-07-09,172.60,164.07,down,-4.94
+AAPL,Apple Inc.,Tim Cook sells significant Apple stake in open market,2024-11-04,166.50,163.62,down,-1.73
+NVDA,NVIDIA Corp.,SEC filing shows NVIDIA insiders sold shares last month,2023-07-05,470.26,458.03,down,-2.60
+TSLA,Tesla Inc.,Tesla CFO disposes of stock worth millions,2024-11-13,250.46,246.09,down,-1.74
+NFLX,Netflix Inc.,Multiple Netflix executives file Form 4 stock sales,2023-09-18,609.63,594.94,down,-2.41
+GOOGL,Alphabet Inc.,Sundar Pichai reduces Alphabet holdings by 20% per SEC filing,2023-05-30,155.76,153.68,down,-1.33
+SBUX,Starbucks Corp.,Insider selling at Starbucks reaches highest level in years,2024-06-12,98.74,97.38,down,-1.38
+XOM,Exxon Mobil Corp.,ExxonMobil board member offloads shares ahead of earnings,2023-10-13,99.22,97.30,down,-1.94
+PEP,PepsiCo Inc.,Unusual insider selling activity flagged at PepsiCo,2023-04-07,153.89,149.33,down,-2.96
+WMT,Walmart Inc.,Walmart executives sell shares following lockup expiration,2023-04-12,167.51,166.60,down,-0.55
+MCD,McDonald's Corp.,Chris Kempczinski stock sale at McDonald's draws market attention,2024-08-20,310.09,303.12,down,-2.25
+AAPL,Apple Inc.,Apple board approves $10B share repurchase program,2024-09-10,157.65,163.36,up,3.63
+MSFT,Microsoft Corp.,Microsoft expands buyback program citing strong cash flow,2024-08-13,381.84,387.48,up,1.48
+META,Meta Platforms Inc.,Meta announces accelerated share repurchase initiative,2024-04-08,585.96,598.55,up,2.15
+JPM,JPMorgan Chase & Co.,JPMorgan to buy back up to 5% of outstanding shares,2023-01-25,191.01,194.57,up,1.87
+BAC,Bank of America Corp.,Bank of America signals confidence with expanded stock buyback,2023-03-29,28.64,29.50,up,3.01
+GS,Goldman Sachs Group,Goldman Sachs adds $5B to existing share repurchase authorization,2023-06-08,365.12,369.24,up,1.13
+V,Visa Inc.,Visa deploys surplus capital into buyback program,2023-04-04,282.26,290.01,up,2.75
+MA,Mastercard Inc.,Mastercard launches new $8B repurchase plan effective Q2,2023-06-30,429.00,437.90,up,2.07
+KO,Coca-Cola Co.,Coca-Cola increases share buyback pace to record levels,2024-09-23,49.74,51.16,up,2.84
+PEP,PepsiCo Inc.,PepsiCo board greenlights largest buyback in company history,2024-10-03,177.66,180.64,up,1.68
+PFE,Pfizer Inc.,FDA clears Pfizer Paxlovid for expanded use,2024-08-02,28.61,30.03,up,4.99
+MRK,Merck & Co.,Merck receives key approval for Gardasil in major market,2024-06-20,117.30,123.90,up,5.63
+ABBV,AbbVie Inc.,Regulators greenlight AbbVie Humira ahead of schedule,2023-12-13,162.03,167.15,up,3.16
+JNJ,Johnson & Johnson,J&J wins clearance for next-gen Stelara platform,2024-12-06,166.24,177.74,up,6.92
+TSLA,Tesla Inc.,EU grants Tesla marketing authorization for Powerwall,2023-11-01,261.78,271.72,up,3.80
+BA,Boeing Co.,Boeing 737 MAX passes final regulatory hurdle,2023-10-11,190.67,198.63,up,4.18
+GE,GE Aerospace,GE Aerospace celebrates landmark approval for jet engines,2024-05-01,160.80,170.93,up,6.30
+UNH,UnitedHealth Group,Regulatory body fast-tracks UnitedHealth Optum review,2024-10-21,497.58,516.25,up,3.75
+DE,Deere & Co.,Deere clears regulatory milestone for industrial expansion,2024-07-04,411.56,432.21,up,5.02
+CVX,Chevron Corp.,Chevron wins conditional approval for Permian Basin ops rollout,2023-01-26,164.19,170.92,up,4.10
+NFLX,Netflix Inc.,Netflix streaming service adds record new users in Q3,2023-01-10,608.65,656.14,up,7.80
+DIS,Walt Disney Co.,Disney subscriber count surges past analyst expectations,2023-07-21,113.36,119.88,up,5.75
+META,Meta Platforms Inc.,Meta reports strongest user growth since 2021,2024-06-03,527.71,546.04,up,3.47
+AMZN,Amazon.com Inc.,Amazon Prime membership hits all-time high,2024-12-04,180.35,189.15,up,4.88
+MSFT,Microsoft Corp.,Microsoft active users jump 30% in latest quarter,2023-03-07,410.69,441.74,up,7.56
+CRM,Salesforce Inc.,Salesforce customer acquisition costs drop as growth accelerates,2023-01-16,293.47,306.17,up,4.33
+SBUX,Starbucks Corp.,Starbucks crosses major Frappuccino subscriber milestone,2023-03-03,101.33,109.28,up,7.84
+WMT,Walmart Inc.,Walmart retention rates improve alongside new sign-ups,2023-12-22,184.80,198.49,up,7.40
+NKE,Nike Inc.,Nike domestic and international user base both expand,2023-01-05,91.88,94.64,up,3.01
+GOOGL,Alphabet Inc.,Alphabet Google Search engagement metrics surge in Q4 report,2024-08-26,134.18,144.24,up,7.50
+JPM,JPMorgan Chase & Co.,JPMorgan raises quarterly dividend by 15%,2023-10-06,160.09,162.10,up,1.26
+BAC,Bank of America Corp.,Bank of America board approves eighth consecutive dividend hike,2024-07-25,40.88,41.98,up,2.68
+KO,Coca-Cola Co.,Coca-Cola boosts payout signaling financial strength,2024-09-26,60.22,61.10,up,1.47
+PEP,PepsiCo Inc.,PepsiCo increases annual dividend above analyst forecasts,2024-04-22,176.88,178.76,up,1.06
+JNJ,Johnson & Johnson,J&J joins growing list of healthcare dividend raisers,2024-04-16,149.47,152.67,up,2.14
+MRK,Merck & Co.,Merck lifts dividend to highest level in a decade,2023-07-13,114.22,117.39,up,2.77
+XOM,Exxon Mobil Corp.,ExxonMobil announces surprise special dividend alongside raise,2023-05-09,96.19,98.70,up,2.61
+CVX,Chevron Corp.,Chevron targets 40% payout ratio with new dividend policy,2023-03-24,168.75,171.40,up,1.57
+CAT,Caterpillar Inc.,Caterpillar rewards shareholders with double-digit dividend boost,2023-06-15,338.86,346.47,up,2.25
+UPS,United Parcel Service,UPS raises dividend for fifth straight year,2024-06-21,131.70,134.82,up,2.37
+BA,Boeing Co.,Boeing wins $5B government aerospace contract,2024-08-01,221.15,229.37,up,3.72
+GE,GE Aerospace,GE Aerospace selected for major international aerospace project,2024-08-14,173.47,179.71,up,3.60
+CAT,Caterpillar Inc.,Caterpillar inks record contract with Fortune 100 client,2023-02-09,330.19,342.46,up,3.72
+DE,Deere & Co.,Deere awarded multi-year tractors supply agreement,2024-09-20,395.80,409.17,up,3.38
+UPS,United Parcel Service,UPS lands exclusive logistics deal with industry leader,2024-09-12,124.64,128.60,up,3.17
+CVX,Chevron Corp.,Chevron wins competitive tender for massive energy project,2024-06-07,162.46,166.82,up,2.69
+XOM,Exxon Mobil Corp.,Pentagon awards ExxonMobil next-gen crude oil development deal,2023-10-02,112.91,118.57,up,5.01
+NVDA,NVIDIA Corp.,NVIDIA secures landmark GeForce RTX deployment contract,2023-08-07,474.98,492.43,up,3.67
+INTC,Intel Corp.,Intel chosen for national tech infrastructure initiative,2024-01-17,34.15,35.43,up,3.75
+MSFT,Microsoft Corp.,Microsoft signs largest tech contract in company history,2024-05-31,430.64,451.18,up,4.77
